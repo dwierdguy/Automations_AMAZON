@@ -1,4 +1,3 @@
-
 # Script to process workflow data and generate Excel reports
 # Handles both Albacore and Paramount workflow types
  
